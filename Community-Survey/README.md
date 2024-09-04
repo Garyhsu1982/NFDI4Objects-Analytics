@@ -12,6 +12,6 @@ How do you organise your analytical data and associated metadata, especially tho
 What kind of tools or data services do you use or desire for data collection, data analysis, data evaluation, data dissemination, and data archiving? For instance, Authority File and Vocabulary Services (AVS), Data Services (DaS), Software Application Services (SAS), and Discovery Services (DiS).
 Your answers and suggestions would provide us with guidelines to establish a national platform that facilitates data standardisation, data sharing and exchange, the provision of desired service tools, and extensive national networking among the archaeometry community. Meanwhile, this survey will also be used to build up a catalogue of analytical services potentially offered by archaeometrically-oriented laboratories.
 
-The survey results can be viewed [here](Archaeometry-Survey-Results-NEW.pdf)
+The survey results can be viewed [here](Archaeometry-Survey-Results-NEW.pdf).
 
 

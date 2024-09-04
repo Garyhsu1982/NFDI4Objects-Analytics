@@ -4,8 +4,12 @@ data, and make the sharing of data much easier as before. In archaeometry, a num
 added in future). 
 
 ## Chemotion (NFDI4Earth) 
+- Main website
+- Deutsches Bergbau-Museum instance
+- Labmotion: metadata hub
 
 ## Rspace
-
+- Main website
 ## elabftw
+- Main website
 

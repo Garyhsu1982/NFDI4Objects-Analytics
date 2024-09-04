@@ -10,6 +10,6 @@ Our works are classified into several topics:
 - Archaeometry community survey
 - Electronic lab notebooks
 - Experimental workflow tools
-- Registration of lab services
+- Discovery Service for lab analytics
 - Related data repositories
 - Presentations and posters

@@ -26,5 +26,8 @@ Challenges in Archaeology
 - Record provenance and access
 
 
-More information: https://www.igsn.org
+More information: 
+- [IGSN](https://www.igsn.org)
+- [Metadata Profile for Archaeological sample](https://docs.google.com/spreadsheets/d/1xc8H9yVJJ-6MVOXAmp2-GuG6rDY6_EJ_Or_a2jVMer8/edit?usp=sharing)
+                        
 

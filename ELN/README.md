@@ -4,12 +4,12 @@ data, and make the sharing of data much easier as before. In archaeometry, a num
 added in future). 
 
 ## Chemotion (NFDI4Earth) 
-- Main website
-- Deutsches Bergbau-Museum instance
-- Labmotion: metadata hub
+- [software website](https://chemotion.net/)
+- [Deutsches Bergbau-Museum instance](https://bergbau.eln.chemotion.scc.kit.edu/home).  name: Gue, passwprd:4BEyfLtSvf
+- [Labmotion metadata hub](https://www.chemotion-repository.net/home/genericHub)
 
 ## Rspace
-- Main website
+- [Software website](https://www.researchspace.com/)
 ## elabftw
-- Main website
+- [Software website](https://www.elabftw.net/)
 

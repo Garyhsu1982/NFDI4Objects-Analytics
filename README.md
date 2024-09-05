@@ -4,11 +4,11 @@ This repository documents the works related to the development of protocols, gui
 
 ## Outline
 Our works are classified into several topics: 
-- Sample persistent identifiers (IGSN)
-- Scientific instrument persistent identifiers (PIDINST)
-- Temporary working group for device metadata
-- Archaeometry community survey
-- Electronic lab notebooks
+- [Sample persistent identifiers](IGSN)
+- [Scientific instrument persistent identifiers](PIDINST)
+- [Temporary working group for device metadata](TWG-)
+- [Archaeometry community survey](Community-Survey)
+- [Electronic lab notebooks](ELN)
 - Experimental workflow tools
 - Discovery Service for lab analytics
 - Related data repositories

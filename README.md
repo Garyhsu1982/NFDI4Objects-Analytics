@@ -6,10 +6,10 @@ This repository documents the works related to the development of protocols, gui
 Our works are classified into several topics: 
 - [Sample persistent identifiers](IGSN)
 - [Scientific instrument persistent identifiers](PIDINST)
-- [Temporary working group for device metadata](TWG-)
+- [Temporary working group for device metadata](TWG-Device-Metadata)
 - [Archaeometry community survey](Community-Survey)
 - [Electronic lab notebooks](ELN)
-- Experimental workflow tools
-- Discovery Service for lab analytics
+- [Experimental workflow tools](Experimental-Workflow)
+- [Discovery Service for lab analytics](Discovery-Lab-Service)
 - Related data repositories
 - Presentations and posters
